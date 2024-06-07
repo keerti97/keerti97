@@ -1,6 +1,5 @@
 # Hi! I am Keerti!
 <a href="https://www.linkedin.com/in/keertimaan97/"><img src="https://img.shields.io/badge/Keerti-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://www.linkedin.com/in/keertimaan97/"><img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge"/></a>
 
 # About Me
 
