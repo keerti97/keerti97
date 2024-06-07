@@ -1,11 +1,12 @@
-# Hi! I am Keerti!
+# Hi! :wave: I am Keerti!
 <a href="https://www.linkedin.com/in/keertimaan97/"><img src="https://img.shields.io/badge/Keerti-0A66C2?style=for-the-badge&logo=linkedin"/></a>
 
-# About Me
+## About Me
 
-# Skills
+## Skills
 
-# Certificates
+## Projects
+## Certificates
 <a href="https://www.credly.com/badges/0a6f60b4-2aef-432f-a523-bc1ce555b97e/"><img src="https://img.shields.io/badge/GIAC%20Security%20Essentials%20(GSEC)-0A66C2?style=for-the-badge"/></a>
 <a href="https://www.credly.com/badges/a21bdbe9-39aa-4e95-acc5-498799a84d5f/"><img src="https://img.shields.io/badge/Security%2B-red?style=for-the-badge&logo=comptia"/></a>
 <a href="https://www.credly.com/badges/7d7f5018-cd00-4262-9bb3-5d53bd5adcf2/"><img src="https://img.shields.io/badge/GIAC%20Advisory%20Board-%23FFD700?style=for-the-badge"/></a>
